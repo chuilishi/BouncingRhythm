@@ -1,0 +1,1617 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4017329702457259753
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205664eb0975819479c74d7135dea8de, type: 3}
+  m_Name: New Beat Track
+  m_EditorClassIdentifier: 
+  chart: {fileID: 0}
+  _features:
+  - timestamp: 0
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 0
+  - timestamp: 15
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3897cfcf026eb848b3be5b9a80f84af, type: 3}
+  m_Name: Coexistenz
+  m_EditorClassIdentifier: 
+  audioClip: {fileID: 8300000, guid: 73b932b2878a3fa488a7c461f6d0d68d, type: 3}
+  tracks: []
+  chart: {fileID: 0}
+--- !u!114 &114889094868735572
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205664eb0975819479c74d7135dea8de, type: 3}
+  m_Name: Beats
+  m_EditorClassIdentifier: 
+  chart: {fileID: 0}
+  _features:
+  - timestamp: 0
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 0
+  - timestamp: 0
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 0
+  - timestamp: 0.60409343
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 91.95674
+  - timestamp: 1.7879364
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 101.731674
+  - timestamp: 2.3916554
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 101.731674
+  - timestamp: 2.9953742
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.93688
+  - timestamp: 3.599093
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.54414
+  - timestamp: 4.2028117
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 4.8065305
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 5.410249
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 6.0139685
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.38402
+  - timestamp: 6.640907
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 7.244626
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 7.848345
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 8.4288435
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 9.032562
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 9.636281
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 10.24
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 10.843719
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 11.424217
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 12.027937
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 12.631656
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 13.235374
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 13.839093
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 14.442812
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 15.046531
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 15.6502495
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.38402
+  - timestamp: 16.277187
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.38402
+  - timestamp: 16.904127
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.38402
+  - timestamp: 17.507845
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.38402
+  - timestamp: 18.111565
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.38402
+  - timestamp: 18.692064
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.38402
+  - timestamp: 19.272562
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.38402
+  - timestamp: 20.41034
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 20.990839
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 21.571339
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 22.194363
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 22.685896
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 23.266394
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 23.870113
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 24.613152
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 25.216871
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 25.82059
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 26.424309
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 27.028027
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 27.631746
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 28.212244
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 28.815964
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 29.419683
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 30.023401
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 30.627121
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 31.230839
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 31.811338
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 32.41506
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 33.018776
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 33.622494
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 34.22621
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 34.829933
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 35.41043
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 36.01415
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 36.61787
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 37.22159
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 37.825306
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 38.429024
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 39.032745
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 39.613243
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 40.21696
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 40.82068
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 41.4244
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 42.02812
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 42.608616
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 43.212337
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 43.816055
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 43.831703
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 44.419773
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 45.02349
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 45.627213
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 46.23093
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 46.83465
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 47.415146
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 47.995647
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 48.599365
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 49.203083
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 49.8068
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 50.410522
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 51.01424
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 51.617958
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 52.22168
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 52.825397
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 53.429115
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 54.032833
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 54.636555
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 55.240273
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 55.82077
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 56.401268
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 57.00499
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 57.608707
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 58.212425
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 58.816147
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 59.419865
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 60.023582
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 60.6273
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 61.23102
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 61.83474
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 62.438457
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 63.018955
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 63.599457
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 64.20318
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 64.80689
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 65.410614
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 66.01433
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 66.61805
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 67.22177
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 67.825485
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 68.42921
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 69.03293
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 69.63664
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 70.240364
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 70.82086
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 71.40136
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 72.00508
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 72.608795
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 73.21252
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 73.81624
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 74.41995
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 75.023674
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 75.627396
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 76.23111
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 76.83483
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 77.438545
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 78.01905
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 78.59955
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 79.20326
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 79.806984
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 80.410706
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 81.01442
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 81.61814
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 82.22186
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 82.82558
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 83.4293
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 84.03301
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 84.636734
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 85.21723
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 85.82095
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 86.424675
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 87.00517
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 87.60889
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 88.21261
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 88.81633
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 89.420044
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 90.023766
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 90.62748
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 91.2312
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 91.83492
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 92.41542
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 93.019135
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 93.622856
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 94.22658
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 94.83029
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 95.4108
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 96.01451
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 96.61823
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 97.22195
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 97.82567
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 98.42939
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 99.033104
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 99.6136
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 100.19411
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 100.79782
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 101.40154
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 102.005264
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 102.60898
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 103.2127
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 103.816414
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 104.420135
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 105.02386
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 105.62757
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 106.23129
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 106.835014
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 107.43873
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 108.019226
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 108.62295
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 109.22667
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 109.80717
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 110.41088
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 111.0146
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 111.618324
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 112.22204
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 112.82576
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 113.42948
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 114.033195
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 114.61369
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 115.217415
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 115.82114
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 116.42485
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 117.02857
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 117.63229
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 118.21279
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 118.79329
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 119.397
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 120.000725
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 120.60445
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 121.20816
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 121.81188
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 122.4156
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 123.01932
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 123.62304
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 124.22676
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 124.830475
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 125.4342
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 126.03791
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 126.64163
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 127.22213
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 127.80263
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 128.40636
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 129.01007
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 129.61378
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 130.2175
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 130.82123
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 131.42494
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 132.02866
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 132.63239
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 133.2361
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 133.8166
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 134.3971
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 135.00081
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 135.60454
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 136.20825
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 136.81197
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 137.4157
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 138.01941
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 138.62312
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 139.22685
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 139.83057
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 140.43428
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 141.03801
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 141.64172
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 142.24544
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 142.84917
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 143.45288
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 144.0566
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 144.66032
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 145.26404
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 145.86775
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 146.47148
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 147.05197
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 100.154434
+  - timestamp: 147.63248
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 148.21297
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 148.8167
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 149.42041
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 150.02412
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 150.62785
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 151.23157
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 151.83528
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 152.439
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 153.04272
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 153.64644
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 154.25015
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 154.85388
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774
+  - timestamp: 155.4576
+    length: 0
+    keyIndex: 0
+    keyType: 0
+    chart: {fileID: 0}
+    bpm: 99.76774

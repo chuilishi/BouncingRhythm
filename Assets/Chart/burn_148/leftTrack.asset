@@ -1,0 +1,2383 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205664eb0975819479c74d7135dea8de, type: 3}
+  m_Name: leftTrack
+  m_EditorClassIdentifier: 
+  chart: {fileID: 11400000, guid: 5cd90eb3453a493458e8df27003bd143, type: 2}
+  _features:
+  - timestamp: -0.002
+    length: 0.02
+    key:
+      beat: 0
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: -0.002
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 1.3155676
+    length: 0.02
+    key:
+      beat: 26
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 1.3155676
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 1.6702973
+    length: 0.02
+    key:
+      beat: 33
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 1.6702973
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 2.2277298
+    length: 0.02
+    key:
+      beat: 44
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 2.2277298
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 3.4946215
+    length: 0.02
+    key:
+      beat: 69
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 3.4946215
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 3.8493514
+    length: 0.02
+    key:
+      beat: 76
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 3.8493514
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 4.254757
+    length: 0.02
+    key:
+      beat: 84
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 4.254757
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 4.660162
+    length: 0.02
+    key:
+      beat: 92
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 4.660162
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 5.1162434
+    length: 0.02
+    key:
+      beat: 101
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 5.1162434
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 5.927054
+    length: 0.02
+    key:
+      beat: 117
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 5.927054
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 6.8898916
+    length: 0.02
+    key:
+      beat: 136
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 6.8898916
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 7.295297
+    length: 0.02
+    key:
+      beat: 144
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 7.295297
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 7.7007027
+    length: 0.02
+    key:
+      beat: 152
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 7.7007027
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 8.106108
+    length: 0.02
+    key:
+      beat: 160
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 8.106108
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 8.764892
+    length: 0.02
+    key:
+      beat: 173
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 8.764892
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 9.373
+    length: 0.02
+    key:
+      beat: 185
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 9.373
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 10.133135
+    length: 0.02
+    key:
+      beat: 200
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 10.133135
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 11.400027
+    length: 0.02
+    key:
+      beat: 225
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 11.400027
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 11.906784
+    length: 0.02
+    key:
+      beat: 235
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 11.906784
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 12.565567
+    length: 0.02
+    key:
+      beat: 248
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 12.565567
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 13.325703
+    length: 0.02
+    key:
+      beat: 263
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 13.325703
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 14.187189
+    length: 0.02
+    key:
+      beat: 280
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 14.187189
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 14.592594
+    length: 0.02
+    key:
+      beat: 288
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 14.592594
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 15.150027
+    length: 0.02
+    key:
+      beat: 299
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 15.150027
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 16.366243
+    length: 0.02
+    key:
+      beat: 323
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 16.366243
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 16.771648
+    length: 0.02
+    key:
+      beat: 331
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 16.771648
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 17.177053
+    length: 0.02
+    key:
+      beat: 339
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 17.177053
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 17.633135
+    length: 0.02
+    key:
+      beat: 348
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 17.633135
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 18.03854
+    length: 0.02
+    key:
+      beat: 356
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 18.03854
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 18.849352
+    length: 0.02
+    key:
+      beat: 372
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 18.849352
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 19.862865
+    length: 0.02
+    key:
+      beat: 392
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 19.862865
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 20.26827
+    length: 0.02
+    key:
+      beat: 400
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 20.26827
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 20.673676
+    length: 0.02
+    key:
+      beat: 408
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 20.673676
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 21.07908
+    length: 0.02
+    key:
+      beat: 416
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 21.07908
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 21.636513
+    length: 0.02
+    key:
+      beat: 427
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 21.636513
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 22.295298
+    length: 0.02
+    key:
+      beat: 440
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 22.295298
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 23.055431
+    length: 0.02
+    key:
+      beat: 455
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 23.055431
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 24.322325
+    length: 0.02
+    key:
+      beat: 480
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 24.322325
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 24.930431
+    length: 0.02
+    key:
+      beat: 492
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 24.930431
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 25.487865
+    length: 0.02
+    key:
+      beat: 503
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 25.487865
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 26.349352
+    length: 0.02
+    key:
+      beat: 520
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 0, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 26.349352
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 28.528404
+    length: 0.02
+    key:
+      beat: 563
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 28.528404
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 29.541918
+    length: 0.02
+    key:
+      beat: 583
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 29.541918
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 29.947325
+    length: 0.02
+    key:
+      beat: 591
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 29.947325
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 30.45408
+    length: 0.02
+    key:
+      beat: 601
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 30.45408
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 30.859486
+    length: 0.02
+    key:
+      beat: 609
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 30.859486
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 31.771648
+    length: 0.02
+    key:
+      beat: 627
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 31.771648
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 32.83584
+    length: 0.02
+    key:
+      beat: 648
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 32.83584
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 33.24124
+    length: 0.02
+    key:
+      beat: 656
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 33.24124
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 33.64665
+    length: 0.02
+    key:
+      beat: 664
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 33.64665
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 34.052055
+    length: 0.02
+    key:
+      beat: 672
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 34.052055
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 35.217594
+    length: 0.02
+    key:
+      beat: 695
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 35.217594
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 40.79192
+    length: 0.02
+    key:
+      beat: 805
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 40.79192
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 42.362865
+    length: 0.02
+    key:
+      beat: 836
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 42.362865
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 42.76827
+    length: 0.02
+    key:
+      beat: 844
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 42.76827
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 43.22435
+    length: 0.02
+    key:
+      beat: 853
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 43.22435
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 43.629757
+    length: 0.02
+    key:
+      beat: 861
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 43.629757
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 44.03516
+    length: 0.02
+    key:
+      beat: 869
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 44.03516
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 45.60611
+    length: 0.02
+    key:
+      beat: 900
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 45.60611
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 46.011513
+    length: 0.02
+    key:
+      beat: 908
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 46.011513
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 46.36624
+    length: 0.02
+    key:
+      beat: 915
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 46.36624
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 46.77165
+    length: 0.02
+    key:
+      beat: 923
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 46.77165
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 47.633133
+    length: 0.02
+    key:
+      beat: 940
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 47.633133
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 50.014893
+    length: 0.02
+    key:
+      beat: 987
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 50.014893
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 50.420296
+    length: 0.02
+    key:
+      beat: 995
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 50.420296
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 51.687187
+    length: 0.02
+    key:
+      beat: 1020
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 51.687187
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 55.487865
+    length: 0.02
+    key:
+      beat: 1095
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: -1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 55.487865
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 55.79192
+    length: 0.02
+    key:
+      beat: 1101
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 55.79192
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 55.99462
+    length: 0.02
+    key:
+      beat: 1105
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: -1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 55.99462
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 56.34935
+    length: 0.02
+    key:
+      beat: 1112
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 56.34935
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 56.552055
+    length: 0.02
+    key:
+      beat: 1116
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: -1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 56.552055
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 56.95746
+    length: 0.02
+    key:
+      beat: 1124
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 56.95746
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 57.21084
+    length: 0.02
+    key:
+      beat: 1129
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: -1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 57.21084
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 57.565567
+    length: 0.02
+    key:
+      beat: 1136
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 57.565567
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 57.76827
+    length: 0.02
+    key:
+      beat: 1140
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: -1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 57.76827
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 58.173676
+    length: 0.02
+    key:
+      beat: 1148
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 58.173676
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 61.822323
+    length: 0.02
+    key:
+      beat: 1220
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 61.822323
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 62.481106
+    length: 0.02
+    key:
+      beat: 1233
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 62.481106
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 63.089214
+    length: 0.02
+    key:
+      beat: 1245
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 63.089214
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 63.697323
+    length: 0.02
+    key:
+      beat: 1257
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 63.697323
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 64.20408
+    length: 0.02
+    key:
+      beat: 1267
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 64.20408
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 65.06557
+    length: 0.02
+    key:
+      beat: 1284
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 65.06557
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 65.72435
+    length: 0.02
+    key:
+      beat: 1297
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 65.72435
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 66.281784
+    length: 0.02
+    key:
+      beat: 1308
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 66.281784
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 66.88989
+    length: 0.02
+    key:
+      beat: 1320
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 66.88989
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 67.95408
+    length: 0.02
+    key:
+      beat: 1341
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 67.95408
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 68.56219
+    length: 0.02
+    key:
+      beat: 1353
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 68.56219
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 69.170296
+    length: 0.02
+    key:
+      beat: 1365
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 69.170296
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 69.5757
+    length: 0.02
+    key:
+      beat: 1373
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 69.5757
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 70.13313
+    length: 0.02
+    key:
+      beat: 1384
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 70.13313
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 70.74124
+    length: 0.02
+    key:
+      beat: 1396
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 70.74124
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 71.552055
+    length: 0.02
+    key:
+      beat: 1412
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 71.552055
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 72.160164
+    length: 0.02
+    key:
+      beat: 1424
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 72.160164
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 72.81895
+    length: 0.02
+    key:
+      beat: 1437
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 72.81895
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 73.37638
+    length: 0.02
+    key:
+      beat: 1448
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 73.37638
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 73.98449
+    length: 0.02
+    key:
+      beat: 1460
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 73.98449
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 74.59259
+    length: 0.02
+    key:
+      beat: 1472
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 74.59259
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 75.2007
+    length: 0.02
+    key:
+      beat: 1484
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 75.2007
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 75.60611
+    length: 0.02
+    key:
+      beat: 1492
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 75.60611
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 76.01151
+    length: 0.02
+    key:
+      beat: 1500
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 76.01151
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 76.416916
+    length: 0.02
+    key:
+      beat: 1508
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 76.416916
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 76.82233
+    length: 0.02
+    key:
+      beat: 1516
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 76.82233
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 77.22773
+    length: 0.02
+    key:
+      beat: 1524
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 77.22773
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 77.63313
+    length: 0.02
+    key:
+      beat: 1532
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 77.63313
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 78.03854
+    length: 0.02
+    key:
+      beat: 1540
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 78.03854
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 78.24124
+    length: 0.02
+    key:
+      beat: 1544
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 78.24124
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 78.44395
+    length: 0.02
+    key:
+      beat: 1548
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 78.44395
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 78.646645
+    length: 0.02
+    key:
+      beat: 1552
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 78.646645
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 78.84935
+    length: 0.02
+    key:
+      beat: 1556
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 78.84935
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 79.10273
+    length: 0.02
+    key:
+      beat: 1561
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 79.10273
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 79.25475
+    length: 0.02
+    key:
+      beat: 1564
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 79.25475
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 79.45746
+    length: 0.02
+    key:
+      beat: 1568
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 79.45746
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 79.96422
+    length: 0.02
+    key:
+      beat: 1578
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 79.96422
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 80.8257
+    length: 0.02
+    key:
+      beat: 1595
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 80.8257
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 81.68719
+    length: 0.02
+    key:
+      beat: 1612
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 81.68719
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 82.548676
+    length: 0.02
+    key:
+      beat: 1629
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 82.548676
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 83.25813
+    length: 0.02
+    key:
+      beat: 1643
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 83.25813
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 84.06895
+    length: 0.02
+    key:
+      beat: 1659
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 84.06895
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 84.930435
+    length: 0.02
+    key:
+      beat: 1676
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 84.930435
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 85.74124
+    length: 0.02
+    key:
+      beat: 1692
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 85.74124
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 86.552055
+    length: 0.02
+    key:
+      beat: 1708
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 86.552055
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 87.36286
+    length: 0.02
+    key:
+      beat: 1724
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 87.36286
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 88.173676
+    length: 0.02
+    key:
+      beat: 1740
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 88.173676
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 88.98449
+    length: 0.02
+    key:
+      beat: 1756
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 88.98449
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 89.74462
+    length: 0.02
+    key:
+      beat: 1771
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 89.74462
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 90.60611
+    length: 0.02
+    key:
+      beat: 1788
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 90.60611
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 91.416916
+    length: 0.02
+    key:
+      beat: 1804
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 91.416916
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 92.22773
+    length: 0.02
+    key:
+      beat: 1820
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 92.22773
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 93.038536
+    length: 0.02
+    key:
+      beat: 1836
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 93.038536
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 93.84935
+    length: 0.02
+    key:
+      beat: 1852
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 93.84935
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 94.71084
+    length: 0.02
+    key:
+      beat: 1869
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 94.71084
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 95.47097
+    length: 0.02
+    key:
+      beat: 1884
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 95.47097
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 96.23111
+    length: 0.02
+    key:
+      beat: 1899
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 96.23111
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 97.09259
+    length: 0.02
+    key:
+      beat: 1916
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 97.09259
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 97.85273
+    length: 0.02
+    key:
+      beat: 1931
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 97.85273
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 98.71422
+    length: 0.02
+    key:
+      beat: 1948
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 98.71422
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 99.47435
+    length: 0.02
+    key:
+      beat: 1963
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 99.47435
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 100.33584
+    length: 0.02
+    key:
+      beat: 1980
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 100.33584
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 101.19733
+    length: 0.02
+    key:
+      beat: 1997
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 101.19733
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 101.95746
+    length: 0.02
+    key:
+      beat: 2012
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 101.95746
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 102.76827
+    length: 0.02
+    key:
+      beat: 2028
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 102.76827
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 103.528404
+    length: 0.02
+    key:
+      beat: 2043
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 103.528404
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 104.33922
+    length: 0.02
+    key:
+      beat: 2059
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 104.33922
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 105.150024
+    length: 0.02
+    key:
+      beat: 2075
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 105.150024
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 105.96084
+    length: 0.02
+    key:
+      beat: 2091
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 105.96084
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 106.82233
+    length: 0.02
+    key:
+      beat: 2108
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 106.82233
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 108.08922
+    length: 0.02
+    key:
+      beat: 2133
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 108.08922
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 108.44395
+    length: 0.02
+    key:
+      beat: 2140
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: -1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 108.44395
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 108.646645
+    length: 0.02
+    key:
+      beat: 2144
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 108.646645
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 108.84935
+    length: 0.02
+    key:
+      beat: 2148
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: -1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 108.84935
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 109.10273
+    length: 0.02
+    key:
+      beat: 2153
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 109.10273
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 109.305435
+    length: 0.02
+    key:
+      beat: 2157
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: -1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 109.305435
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 109.660164
+    length: 0.02
+    key:
+      beat: 2164
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 109.660164
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 110.11624
+    length: 0.02
+    key:
+      beat: 2173
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: -1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 110.11624
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 113.76489
+    length: 0.02
+    key:
+      beat: 2245
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: -1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 113.76489
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 113.916916
+    length: 0.02
+    key:
+      beat: 2248
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 113.916916
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 114.11962
+    length: 0.02
+    key:
+      beat: 2252
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: -1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 114.11962
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 114.32233
+    length: 0.02
+    key:
+      beat: 2256
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 114.32233
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 114.5757
+    length: 0.02
+    key:
+      beat: 2261
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: -1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 114.5757
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 114.930435
+    length: 0.02
+    key:
+      beat: 2268
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 114.930435
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 115.18381
+    length: 0.02
+    key:
+      beat: 2273
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: -1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 115.18381
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 115.33584
+    length: 0.02
+    key:
+      beat: 2276
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 115.33584
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 115.538536
+    length: 0.02
+    key:
+      beat: 2280
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: -1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 115.538536
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 115.74124
+    length: 0.02
+    key:
+      beat: 2284
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 115.74124
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 116.146645
+    length: 0.02
+    key:
+      beat: 2292
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: -1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 116.146645
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 116.552055
+    length: 0.02
+    key:
+      beat: 2300
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 116.552055
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 120.2007
+    length: 0.02
+    key:
+      beat: 2372
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: -1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 120.2007
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 120.656784
+    length: 0.02
+    key:
+      beat: 2381
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 120.656784
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 121.01151
+    length: 0.02
+    key:
+      beat: 2388
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: -1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 121.01151
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 121.416916
+    length: 0.02
+    key:
+      beat: 2396
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 121.416916
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 123.44395
+    length: 0.02
+    key:
+      beat: 2436
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: -1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 123.44395
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 123.84935
+    length: 0.02
+    key:
+      beat: 2444
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 123.84935
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 124.25475
+    length: 0.02
+    key:
+      beat: 2452
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: -1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 124.25475
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 124.660164
+    length: 0.02
+    key:
+      beat: 2460
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 124.660164
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 126.68719
+    length: 0.02
+    key:
+      beat: 2500
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: -1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 126.68719
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 127.498
+    length: 0.02
+    key:
+      beat: 2516
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: -1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 127.498
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 128.3088
+    length: 0.02
+    key:
+      beat: 2532
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: -1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 128.3088
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 129.11961
+    length: 0.02
+    key:
+      beat: 2548
+      keyType: 1
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: -1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 129.11961
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 129.93044
+    length: 0.02
+    key:
+      beat: 2564
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 129.93044
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 130.48787
+    length: 0.02
+    key:
+      beat: 2575
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 130.48787
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 131.09598
+    length: 0.02
+    key:
+      beat: 2587
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 131.09598
+      ball: {fileID: 0}
+    bpm: 0
+  - timestamp: 131.75476
+    length: 0.02
+    key:
+      beat: 2600
+      keyType: 0
+      position: {x: 0, y: 0}
+      speed: 10
+      direction: {x: 1, y: 1}
+      secondPerBeat: 0.050675675
+      offset: -0.002
+      _time: 131.75476
+      ball: {fileID: 0}
+    bpm: 0
+  leftOrRight: 0

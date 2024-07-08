@@ -1,0 +1,4 @@
+repository "RhythmGame@chuilishi@cloud.cn"
+  path "/"
+    smartbranch "/main" 
+     
