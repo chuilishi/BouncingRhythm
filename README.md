@@ -2,7 +2,7 @@
 
 > Rhythm Game Editor Plugin in Unity
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Toukaya/IntelliScheduler.git) [![License](https://img.shields.io/badge/license-GPL3.0-blue.svg)](LICENSE)
+ [![License](https://img.shields.io/badge/license-GPL3.0-blue.svg)](LICENSE)
 
 ## Features
 
